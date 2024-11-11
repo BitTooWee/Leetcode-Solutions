@@ -2,7 +2,7 @@
 My solutions to [Leetcode]([https://open.kattis.com/](https://leetcode.com/problemset/)) problems.
 
 ## Problems
-| Problem | Languages | :link: |
+| Solution :link: | Language | Problem :link: |
 | - | - | - |
 | [13. Roman to Integer (Easy)](https://github.com/BitTooWee/Leetcode-Solutions/blob/main/Leetcode13.cpp) | C++ | [![:cat:](https://github.com/BitTooWee/Leetcode-Solutions/blob/main/Leetcode_Logo.jpeg)](https://leetcode.com/problems/roman-to-integer/) |
 | [121. Best Time to Buy and Sell Stock (Easy)](https://github.com/BitTooWee/Leetcode-Solutions/blob/main/Leetcode121.cpp) | C++ | [![:cat:](https://github.com/BitTooWee/Leetcode-Solutions/blob/main/Leetcode_Logo.jpeg)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
