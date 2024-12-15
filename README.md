@@ -4,6 +4,7 @@ My solutions to [Leetcode]([https://open.kattis.com/](https://leetcode.com/probl
 ## Problems
 | Solution :link: | Language | Problem :link: |
 | - | - | - |
+| [1. Two Sum (Easy)](https://github.com/Mr-Seoul/Leetcode-Solutions/blob/main/Solutions/Leetcode1.py) | Python3 | [![:cat:](https://github.com/Mr-Seoul/Leetcode-Solutions/blob/main/Leetcode_Logo.jpeg)](https://leetcode.com/problems/two-sum/) |
 | [13. Roman to Integer (Easy)](https://github.com/Mr-Seoul/Leetcode-Solutions/blob/main/Solutions/Leetcode13.cpp) | C++ | [![:cat:](https://github.com/Mr-Seoul/Leetcode-Solutions/blob/main/Leetcode_Logo.jpeg)](https://leetcode.com/problems/roman-to-integer/) |
 | [14. Longest Common Prefix (Easy)](https://github.com/Mr-Seoul/Leetcode-Solutions/blob/main/Solutions/Leetcode14.cpp) | C++ | [![:cat:](https://github.com/Mr-Seoul/Leetcode-Solutions/blob/main/Leetcode_Logo.jpeg)](https://leetcode.com/problems/longest-common-prefix/) |
 | [48. Rotate Image (Medium)](https://github.com/Mr-Seoul/Leetcode-Solutions/blob/main/Solutions/Leetcode48.py) | Python3 | [![:cat:](https://github.com/Mr-Seoul/Leetcode-Solutions/blob/main/Leetcode_Logo.jpeg)](https://leetcode.com/problems/rotate-image/description/) |
